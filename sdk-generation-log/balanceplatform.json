@@ -1,0 +1,8 @@
+{
+  "service": "balanceplatform",
+  "project": "python",
+  "generatedAt": "2026-06-19T10:28:39Z",
+  "openapiCommitSha": "02d10c0110523a6a85ae331d2de5ab402c291095",
+  "automationCommitSha": "6f06b47d0661f0891defe6b85461d2c367fbd284",
+  "libraryCommitSha": "68700ffcf8e8e8b5b15733419d83209eda4e6825"
+}
